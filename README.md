@@ -9,10 +9,14 @@
 
 ##### Questão 1 - Construção da árvore
 a) Descubra qual a ordem que os inteiros foram inseridos na árvore.
+
 b) Escreva/Desenhe, na folha de respostas, a árvore que foi criada.
+
 c) Apresente na depuração a comprovação que o que vocês desenharam corresponde ao que está armazenado na árvore.
+
 d) Veja o resultado do pós-ordem que está programado no arquivo 
 
 ##### Questões 2 - Visualização da árvore
 a) Apresente a árvore em pós-ordem.
+
 b) Mostre, a partir da depuração, a execução do pós-ordem.

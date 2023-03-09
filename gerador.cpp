@@ -20,7 +20,7 @@ int *gerador(int seed) {
     int *valores = (int *)malloc(count * sizeof(int));
     int i, j, r;
 
-    srand(time(NULL));
+    srand(seed);
 
     for (i = 0; i < count; i++) {
         do {
